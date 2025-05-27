@@ -1,0 +1,1 @@
+# Medical-Plant-Detection-using-YOLO-V8-and-Gen.-AI
