@@ -1,4 +1,3 @@
-![Project Image](Background images/medplant bg.jpg)
 # 🌿 Medicinal Plant Detection using YOLOv8 and Generative AI
 
 ## 🧠 Project Overview
