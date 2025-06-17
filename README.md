@@ -1,4 +1,4 @@
-# 🌿 Medicinal Plant Detection using YOLOv8 and Generative AI
+# 🌿 Medical Plant Detection using YOLOv8 and Generative AI
 
 ## 🧠 Project Overview
 
