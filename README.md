@@ -195,7 +195,6 @@ I'm deeply interested in building real-world tech solutions that combine data, i
 ### 👇 My Core Interests
 - 🔍 Data Science & Analytics  
 - 🤖 Artificial Intelligence & Machine Learning  
-- 🌐 Full-Stack Web Development  
 - 📊 BI Dashboards & Predictive Modeling  
 - 💡 Problem-Solving with Scalable Technologies
 
@@ -212,3 +211,10 @@ Let’s connect and grow professionally:
 🌐 **Portfolio**  
 Explore my latest work, skills, and projects here:  
 [anusha-pantala.vercel.app](https://anusha-pantala.vercel.app)
+
+---
+
+> 💡 _“Final-year student, forever learner — building the future, one project at a time.”_
+
+Feel free to explore my repositories and reach out for **collaborations**, **internships**, or to discuss **innovative ideas**!
+
